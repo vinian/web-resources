@@ -16,3 +16,5 @@
 [daniel-miessler-tcpdump-study](https://danielmiessler.com/study/tcpdump/#gs.cCzGUwY)
 
 
+## log
+[log-what-every-software-engineer-should-know-about-realtime-datas-unifying](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
