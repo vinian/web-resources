@@ -23,3 +23,9 @@
 
 ## linux
 [linux-performance](http://www.brendangregg.com/linuxperf.html)
+
+## monitor
+[datadoghq-investigation](https://www.datadoghq.com/blog/monitoring-101-investigation/)
+[datadoghq-alerting](https://www.datadoghq.com/blog/monitoring-101-alerting/)
+[datadoghq-collecting-data](https://www.datadoghq.com/blog/monitoring-101-collecting-data/)
+
