@@ -33,3 +33,10 @@
 ## postmortems
 [5-ways-to-hone-your-production-incident-postmortems](http://tech.shutterstock.com/2016/11/11/5-ways-to-hone-your-production-incident-postmortems/)
 
+
+## Python
+[python-code-performace](https://www.huyng.com/posts/python-performance-analysis)
+
+
+## Dcoker
+[docker-internal](http://docker-saigon.github.io/post/Docker-Internals/)
