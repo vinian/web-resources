@@ -36,6 +36,8 @@
 
 ## Python
 [python-code-performace](https://www.huyng.com/posts/python-performance-analysis)
+[python-tips](http://book.pythontips.com/en/latest/index.html)
+[bytes-of-python](https://python.swaroopch.com/)
 
 
 ## Dcoker
@@ -44,3 +46,14 @@
 
 ## SLA
 [how-to-define-sla](http://sysadvent.blogspot.com/2016/12/day-20-how-to-set-and-monitor-slas.html)
+
+### monitor web app
+[cachepoint](http://www.catchpoint.com/)
+[pingdom](https://www.pingdom.com/)
+[newrelic](https://newrelic.com/)
+[datadog](https://www.datadoghq.com/)
+
+### monitor tools
+[nagios](https://www.nagios.org/documentation/)
+[prometheus](https://prometheus.io/docs/introduction/overview/)
+
