@@ -38,6 +38,7 @@
 [python-code-performace](https://www.huyng.com/posts/python-performance-analysis)
 [python-tips](http://book.pythontips.com/en/latest/index.html)
 [bytes-of-python](https://python.swaroopch.com/)
+[fullstackpython](https://www.fullstackpython.com/table-of-contents.html)
 
 
 ## Dcoker
